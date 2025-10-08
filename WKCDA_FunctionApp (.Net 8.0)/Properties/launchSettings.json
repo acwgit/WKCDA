@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WKCDA_FunctionApp__.Net_8._0_": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7026",
+      "launchBrowser": false
+    }
+  }
+}
